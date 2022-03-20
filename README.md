@@ -3,6 +3,8 @@ EV Charging Stations Data in Turkey
 
 JSON Data of Electric Vecicles Charging Stations in Turkey. Data was gathered by scanning 17139 circles with a radius of 5km using TomTom API. Click GEOJSON file to visualize the data on the map.
 
+Note: In the news in January 2022, It says that there are around 3500 EV stations in Turkey. There were 875 stations in TomTom and I shared the results with you. If I do the scan in Google Maps API, I will share it here as well.
+
 Content:
 - Total 875 Stations
 - JSON Format of Data
